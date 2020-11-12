@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+  
+}
+section{
+    height: 500px;
+    padding: 200px;
+}
+.name-highlight{
+    color: rgb(95, 160, 154); 
+}
+.half-portion{
+    width: 45%;
+    float: left;
+    padding-right: 0px;
+
+}
+
+.half-portion img{
+    padding-top: 0px;
+    padding-left: 0px;
+    width: 100%;
+}
+
+h1{
+    font-size: 40px;
+    font-weight: 450;
+    margin: 0;
+ }
+ .half-portion p{
+     padding-bottom: 20px;
+     font-weight: 300;
+
+ }
+ 
+.button{
+    color: #fff;
+    text-decoration: none;
+    background: linear-gradient(45deg, rgb(207, 219, 98),rgb(212, 226, 12));
+    border-radius: 10px;
+    padding: 12px 40px;
+    font-weight: 600;
+    border-radius: 8px;
+}
+.second{
+        padding: 0px 50px 200px 100px;
+}
+
+.button2{
+    color: #fff;
+    text-decoration: none;
+    background: linear-gradient(-45deg,rgb(211, 113, 194),rgb(219, 34, 179) );
+    border-radius: 10px;
+    padding: 12px 40px;
+    font-weight: 600;
+    border-radius: 8px;
+}
+.third{
+    padding: 0px 40px 150px 120px;
+    
+}
+.third h1{
+    padding: 60px;
+    text-align: center;
+}
+.pic{
+    width: 32%;
+    height: 100%;
+    border-image: 20px;
+}
+.four{
+    padding: 0px 350px 150px 350px;
+    
+}
+.four h1{
+    text-align: center;
+    padding-bottom: 10%;
+}
+.four h3{
+    text-align: center;
+   
+}
+small{
+    text-align: center;
+    display: block;
+  
+  font-weight: 300;
+}
+.four p{
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 4%;
+}
+#ex{
+    padding-top: 40px;
+    background: linear-gradient(45deg,rgb(211, 113, 173),rgb(223, 12, 177) );
+    border-radius: 15px;
+}
